@@ -1,5 +1,7 @@
 <h1>Java Swing Audio Player</h1>
 
+![alt text](image.png)
+
 <p>
 This project is a simple audio player application developed using Java Swing. It features a basic graphical user interface (GUI) with buttons to <strong>Play</strong>, <strong>Reset</strong>, and <strong>Exit</strong> the audio playback. This project demonstrates the use of Java Swing components and the Java Sound API for media control.
 </p>
